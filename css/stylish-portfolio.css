@@ -327,10 +327,10 @@ a {
 a:hover, a:focus, a:active {
   color: #155d74;
 }
-
+/*  JA  */
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #566882 !important;
+  border-color: #566882 !important;
   color: #fff !important;
 }
 
@@ -351,7 +351,7 @@ a:hover, a:focus, a:active {
 }
 
 .btn-dark {
-  color: #fff !important;
+  color: #566882 !important;
 }
 
 .btn {
@@ -364,7 +364,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #566882 !important;
 }
 
 .text-secondary {
