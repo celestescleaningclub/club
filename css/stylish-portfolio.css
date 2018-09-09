@@ -38,6 +38,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  color: #62a5oa
 }
 
 .text-faded {
@@ -329,8 +330,8 @@ a:hover, a:focus, a:active {
 }
 /*  JA  */
 .btn-primary {
-  background-color: #566882 !important;
-  border-color: #566882 !important;
+  background-color: #384452 !important;
+  border-color: #384452 !important;
   color: #fff !important;
 }
 
@@ -351,7 +352,7 @@ a:hover, a:focus, a:active {
 }
 
 .btn-dark {
-  color: #566882 !important;
+  color: #384452 !important;
 }
 
 .btn {
@@ -360,11 +361,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #566882 !important;
+  background-color: #384452 !important;
 }
 
 .text-primary {
-  color: #566882 !important;
+  color: #384452 !important;
 }
 
 .text-secondary {
